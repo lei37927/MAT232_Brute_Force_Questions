@@ -75,4 +75,4 @@ int main()
     cout << minimumPrefixReversals(a, n); 
   
     return 0; 
-} 
+}
